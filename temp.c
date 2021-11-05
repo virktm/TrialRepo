@@ -1,5 +1,6 @@
-#include<stdio.h>
-main()
+#include <stdio.h>
+int main()
 {
-printf"helloword"
-  }
+    printf("Hello, World! This is a native C program compiled on the command line.\n");
+    return 0;
+}
