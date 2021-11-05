@@ -2,4 +2,5 @@
 main()
 {
 printf"helloword"
+  #error yds
   }
